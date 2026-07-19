@@ -1,6 +1,6 @@
 # Olá, eu sou o Heitor Rapcinski 👋
 
-[🇺🇸 English](#hi-im-heitor-rapcinski-) · **🇧🇷 Português**
+[🇺🇸 English](README.md) · **🇧🇷 Português**
 
 **Líder de tecnologia de volta à engenharia mão na massa** — construindo métodos e ferramentas que unem engenharia de software, gestão do conhecimento e IA.
 
