@@ -1,6 +1,6 @@
 # Hi, I'm Heitor Rapcinski 👋
 
-**🇺🇸 English** · [🇧🇷 Português](#-português)
+**🇺🇸 English** · [🇧🇷 Português](README.pt-br.md)
 
 **Technology leader back to hands-on engineering** — building methods and tools that connect software engineering, knowledge management and AI.
 
